@@ -36,8 +36,8 @@ This project uses KMeans clustering to segment customers based on their age, ann
 
 *(You can save some plots as `.png` and upload them to an `/images/` folder)*
 
-![Clusters1](income_vs_spending_clusters/clusters.png)
-![Clusters2](normalized_clusters/clusters.png)
+![Clusters1](images/income_vs_spending_clusters.png)
+![Clusters2](images/normalized_clusters.png)
 
 ## 💡 Author
 
