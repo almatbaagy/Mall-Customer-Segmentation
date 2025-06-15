@@ -1,6 +1,6 @@
 # Mall Customer Segmentation (KMeans Clustering)
 
-This project uses KMeans clustering to segment customers based on their age, annual income, and spending score. It helps mall management understand customer behavior and optimize marketing strategies.
+This project uses KMeans clustering via Jupyter Notebook with Python to segment customers based on their age, annual income, and spending score. It helps mall management understand customer behavior and optimize marketing strategies.
 
 ## Dataset
 - **Source**: [Mall_Customers.csv](Mall_Customers.csv)
